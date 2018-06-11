@@ -1,0 +1,2 @@
+#!/bin/bash
+apt install xorg openbox gksu pcmanfm network-manager vim pulseaudio pavucontrol gmrun gparted xfce4-terminal xfce4-taskmanager xfce4-panel xfce4-clipman xfce4-screenshooter xfce4-battery-plugin xfce4-whiskermenu-plugin lxpolkit compton xbacklight suckless-tools xfce4-notifyd audacious evince transmission ristretto qalculate mousepad vim-gtk file-roller vlc
