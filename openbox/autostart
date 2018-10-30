@@ -20,4 +20,3 @@ xfce4-panel &
 pcmanfm --desktop &
 compton &
 xfce4-clipman &
-lxpolkit &
