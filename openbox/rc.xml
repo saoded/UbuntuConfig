@@ -350,7 +350,7 @@
     </keybind>
     <keybind key="W-x">
       <action name="Execute">
-        <command>oblogout</command>
+        <command>lxsession-logout</command>
       </action>
     </keybind>
     <keybind key="W-r">
